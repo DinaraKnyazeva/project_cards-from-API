@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project_cards-from-API/static/css/main.c517752c.css",
+    "main.js": "/project_cards-from-API/static/js/main.3617d6cd.js",
+    "static/media/rik-i-morti.png": "/project_cards-from-API/static/media/rik-i-morti.947c6681eb4eaf33e383.png",
+    "static/media/sprite.svg": "/project_cards-from-API/static/media/sprite.327b5944af004932fb63fc169bab23e3.svg",
+    "index.html": "/project_cards-from-API/index.html",
+    "main.c517752c.css.map": "/project_cards-from-API/static/css/main.c517752c.css.map",
+    "main.3617d6cd.js.map": "/project_cards-from-API/static/js/main.3617d6cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c517752c.css",
+    "static/js/main.3617d6cd.js"
+  ]
+}

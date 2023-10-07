@@ -32,3 +32,6 @@ img {
   height: 30px;
   margin-left: 15px;
 }
+.card__icon-like--liked {
+  fill: #ffed35;
+}

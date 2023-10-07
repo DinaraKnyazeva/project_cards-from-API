@@ -2,7 +2,7 @@ import React from "react";
 import "./card.css";
 import sprite from "../../assets/img/sprite.svg";
 
-export default function Card({ character }) {
+export default function Card({ character, toggleLike, removeCard }) {
   return (
     <div className="card">
       <div className="card__inner">
@@ -16,10 +16,18 @@ export default function Card({ character }) {
             <p>Species: {character.species}</p>
           </div>
           <div className="card__inner-icon">
-            <svg className="card__icon-like">
+            <svg
+              className={`card__icon-like ${
+                character.isLiked ? "card__icon-like--liked" : ""
+              }`}
+              onClick={() => toggleLike(character.id)}
+            >
               <use href={`${sprite}#like`}></use>
             </svg>
-            <svg className="card__icon-del">
+            <svg
+              className="card__icon-del"
+              onClick={() => removeCard(character.id)}
+            >
               <use href={`${sprite}#delete`}></use>
             </svg>
           </div>

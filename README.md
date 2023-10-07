@@ -19,7 +19,7 @@ This application uses the [Rick and Morty API](https://rickandmortyapi.com/) to 
 
 ## Live Demo
 
-Check out the live demo of the application on [GitHub Pages]().
+Check out the live demo of the application on [GitHub Pages](https://dinaraknyazeva.github.io/project_cards-from-API/).
 
 ## Technologies
 

@@ -1,7 +1,9 @@
 # Rick and Morty Character App
 
 <img src="src/assets/img/sc.png" width="500" alt="screenshot" >
+
 ## Overview
+
 The "Rick and Morty Character App" is a web application built using React. It provides users with a visual display of characters from the popular TV show "Rick and Morty". The application fetches character data from the [Rick and Morty API](https://rickandmortyapi.com/).
 
 ## Features
@@ -22,15 +24,17 @@ Check out the live demo of the application on [GitHub Pages]().
 ## Technologies
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
 ## Installation
 
 To run the project locally, follow the steps below:
 
 Clone the repository:.\
-1.git clone [https://github.com/your-username/react-comments-app.git](https://github.com/your-github-username/foreign-word-learning-app.git)
+1.git clone [https://github.com/DinaraKnyazeva/project_cards-from-API.git](https://github.com/DinaraKnyazeva/project_cards-from-API.git)
 
-### `cd foreign-word-learning-app`
+### `cd project_cards-from-API`
 
 2.Install the dependencies:
 

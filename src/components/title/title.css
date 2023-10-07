@@ -1,0 +1,23 @@
+.title {
+  width: 60%;
+  margin: 0 auto;
+  padding: 25px;
+}
+.title__flex {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  justify-items: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .title {
+    width: 80%;
+    margin: 0 auto;
+    padding: 25px;
+  }
+  .title__flex {
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+}
